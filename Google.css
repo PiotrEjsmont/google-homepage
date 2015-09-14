@@ -1,0 +1,117 @@
+.nav {
+	float: right;
+	margin: -5px 20px 0 0;
+	padding: 0;
+	width: 100%;
+}
+ul {
+	list-style-type: none;
+	float: right;	
+}
+li {
+	color: #000;
+	display: inline-block;
+	margin-right: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	font-family: arial;
+	font-size: 13px;
+}
+#options {
+	position: absolute;
+	margin-top: -20px;
+	margin-left: -5px;
+}
+#signup a{
+	margin-left: 20px;
+	color: white;
+	background-color: #4683ea;
+	padding: 8px 12px;
+	color: white;
+	font-weight: bold;
+}
+.Google {
+	border: 1px white solid;
+	position: relative;
+	clear: both;
+}
+#goog {
+	display: block;
+	margin-top: 144px;
+	width: 272px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Polska {
+	position: relative;
+	color: #4285f4;
+	font-size: 16px;
+	margin-top: -17px;
+	margin-left: 710px;
+	font-family: roboto-regular, arial, sans-sarif;
+}
+input {
+	display: block;
+	margin: 10px auto;
+	width: 500px;
+	height: 30px;
+	border: 2px solid #f2f2f2;
+}
+#keyboard {
+	display: block;
+	margin: -32px 830px;
+}
+#mic {
+	display: block;
+	margin: 10px 850px;
+	height: 30px;
+	width: 30px;
+}
+.buttons {
+	display: block;
+	margin-top: 18px;
+	height: 315px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto
+}
+button {
+	display: inline;
+	margin: 10px auto;
+	background-color: #f2f2f2;
+	color: #757575;
+	border: 1px solid #f2f2f2;
+	font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px 16px;
+    margin-left: 40px;
+}
+#footer {
+	border-top: 1px solid #e4e4e4;
+	position: absolute;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #f2f2f2;
+    height: 40px;
+ }
+ol {
+	list-style-type: none;
+}
+#left {
+	float: left;
+}
+#right {
+	float: right;
+}
+li p {
+	position: relative;
+	top: -18px;
+	color: #666;
+}
